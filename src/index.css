@@ -1,0 +1,9 @@
+html {
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    background-color: #2E2E2E;
+    font-family: 'Inter', sans-serif;
+}
